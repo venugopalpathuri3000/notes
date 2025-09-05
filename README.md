@@ -1,3 +1,3 @@
 Please see:
-- [Note JS](note.js)
-- [Note TS](note.ts)
+- (Note JS)[note.js]
+- (Note TS)[note.ts]
